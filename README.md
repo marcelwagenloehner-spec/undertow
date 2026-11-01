@@ -2,13 +2,15 @@
 
 *Originaler Liquid-Drum-&-Bass-Song: warme Pads, rollende Breaks, Regen, viel Gefühl. Weibliche Lead-Stimme, englischer Text. Übernommen wird nur der Sound des Genres, keine Originalzeilen oder Melodien.*
 
+*Version 2: weniger Text, mehr Beats. Kurze Strophen, nur ein Refrain-Block, lange instrumentale Drops. Die Stimme ist eher ein Instrument als eine Erzählerin.*
+
 ---
 
 ## 1. Die Idee
 
-Liquid DnB lebt vom Gegensatz: Die Drums rasen mit 174 BPM, aber Akkorde und Stimme fühlen sich halb so schnell an, wie eine ruhige Ballade über einem schnellen Herzschlag. Genau das ist das Bild des Songs: Sie wird von einem Gefühl mitgerissen wie von einer Strömung im Meer (Undertow = Sog unter der Wasseroberfläche) und hört auf, dagegen anzuschwimmen.
+Liquid DnB lebt vom Gegensatz: Die Drums rasen mit 174 BPM, Akkorde und Stimme fühlen sich halb so schnell an. In dieser Version tragen die Beats den Song. Die Stimme kommt nur in kurzen Momenten, dazwischen rollen lange Drops mit Breaks, Reese-Bass und Vocal-Chops.
 
-**Hook-Trick:** Das Wort wird gezogen und wiederholt wie eine Welle: "un-der… un-der-tow", im Drop als hoher, verhallter Vocal-Chop "tow-oh-oh". Dazu als Markenzeichen ein Wellen-Rauschen statt Crash-Becken vor jedem Drop.
+**Hook-Trick:** "un-der… un-der-tow" als kurze Gesangszeile, im Drop als hoher, verhallter Chop "tow-oh-oh". Vor jedem Drop rauscht eine Welle statt eines Crash-Beckens.
 
 ---
 
@@ -16,148 +18,87 @@ Liquid DnB lebt vom Gegensatz: Die Drums rasen mit 174 BPM, aber Akkorde und Sti
 
 | | |
 |---|---|
-| **Tempo** | 174 BPM (Strophen und Gesang fühlen sich wie 87 an) |
+| **Tempo** | 174 BPM |
 | **Tonart** | B-Moll |
-| **Akkorde** | Bm9 – Gmaj7 – Dmaj7 – A6 (i – VI – III – VII mit Jazz-Erweiterungen, typisch Liquid) |
-| **Stimme** | Weiblich, warm und nah, viel Luft in der Stimme, im Refrain offen und hoch, nie geschrien |
-| **Länge** | ca. 3:45 |
-| **Thema** | Sich in jemanden fallen lassen, obwohl man weiß, dass es einen mitreißt |
-| **Hook** | "un-der… un-der-tow" + Chop "tow-oh-oh" + Wellen-Rauschen vor den Drops |
+| **Akkorde** | Bm9 – Gmaj7 – Dmaj7 – A6 (je zwei Takte) |
+| **Stimme** | Weiblich, warm, hauchig, wenig Text, viel Hall |
+| **Länge** | ca. 4:00, davon gut zwei Drittel instrumental |
+| **Hook** | "un-der… un-der-tow" + Chop "tow-oh-oh" + Wellen-Rauschen |
 
 ---
 
 ## 3. Songtext
 
-**[Intro – Regen, Rhodes-Piano, Stimme ganz nah, keine Drums]**
+**[Intro – Regen, Rhodes, gefilterter Break kommt rein]**
+*(instrumental, 16 Takte)*
+
+**[Strophe – kurz, Stimme nah]**
 Salt on my lips,
 city lights in the rain,
-I said I'd stay on the shore…
+I said I'd stay on the shore,
 but you called my name.
 
-**[Strophe 1 – gefilterter Break, warmes Pad, Sub-Bass]**
-Streetlights are melting on the water tonight,
-I'm counting the waves between your heartbeat and mine,
-I swore I'd be careful, I swore I'd be wise,
-then you looked at me with the ocean in your eyes.
-Every step I take is a step further in,
-the cold doesn't scare me, it's the warmth on my skin,
-I can feel it pulling, I can feel it slow,
-I know where it's going and I still don't let go.
+**[Pre-Chorus – Filter öffnet sich]**
+Take me deeper…
+take me down…
 
-**[Pre-Chorus – Pad öffnet sich, Break wird lauter]**
-So take me deeper,
-take me down,
-I don't need to breathe
-if I'm drowning in your sound…
-
-**[Refrain – volle Drums, Reese-Bass, Stimme offen und hoch]**
+**[Refrain – volle Drums]**
 You're my undertow,
-pulling me under, under, under,
-I won't fight the flow,
-let it take me, let it take me home.
-Under city lights, under the rain,
-I keep falling for you again,
-you're my un-der… un-der-tow.
-
-*(Wellen-Rauschen, ein Takt nur Pad)*
-
-**[Drop 1 – Rolling Break, warmer Reese-Bass, Chop]**
-Tow-oh-oh…
-(un-der… un-der-tow)
-Tow-oh-oh…
-(let it take me home)
-
-**[Strophe 2 – Drums halb so dicht, nur Hi-Hats und Sub]**
-We're two paper boats in a river of gold,
-the stories we told are the only ones I hold,
-you say that it's dangerous, I say it's alive,
-some things you can't touch if you're scared of the tide.
-Your hand on my back is the moon on the sea,
-it moves me so softly, I forget I was free,
-and maybe tomorrow I'll wake up alone,
-but tonight every wave is a way to come home.
-
-**[Pre-Chorus]**
-So take me deeper,
-take me down,
-I don't need to breathe
-if I'm drowning in your sound…
-
-**[Refrain]**
-You're my undertow,
-pulling me under, under, under,
-I won't fight the flow,
-let it take me, let it take me home.
-Under city lights, under the rain,
-I keep falling for you again,
+pulling me under, under,
+let it take me home,
 you're my un-der… un-der-tow.
 
 *(Wellen-Rauschen)*
 
-**[Drop 2 – Break mit Ghost-Snares, Reese-Bass bewegt sich, Strings dazu]**
+**[Drop 1 – lang, instrumental, Chop]**
 Tow-oh-oh…
-(pulling me under)
+*(rollender Break, Reese-Bass, 32 Takte)*
 Tow-oh-oh…
-(pulling me under, under)
 
-**[Bridge – alle Drums raus, nur Rhodes, Strings, Regen, Stimme pur]**
-And if the water's deep,
-then let me sink with you,
-I'd rather lose the shore
-than never know the blue.
+**[Break – Drums ausgedünnt, nur Hi-Hats, Sub, eine Zeile]**
 Hold your breath with me…
-hold your breath with me…
+*(instrumental, 16 Takte)*
 
-**[Build – Amen-Break kommt Schritt für Schritt zurück, Stimme steigt]**
-Under, under, under,
-under, under, under…
-take me hoooome…
+**[Build – Amen-Break kommt zurück]**
+Under, under, under…
 
-**[Final Drop – volle Energie, doppelte Stimme, Chop + Refrain zusammen]**
-You're my undertow,
-pulling me under, under, under,
-I won't fight the flow,
-let it take me, let it take me home.
-Under city lights, under the rain,
-I keep falling for you again,
-you're my un-der… un-der-tow.
-(Tow-oh-oh… tow-oh-oh…)
+*(Wellen-Rauschen)*
 
-**[Outro – Drums lösen sich auf, nur Regen und Rhodes]**
+**[Drop 2 – noch länger, Strings, Ghost-Snares, Bass-Variation]**
+Tow-oh-oh…
+*(instrumental, 32 Takte)*
+Un-der… un-der-tow…
+*(instrumental, 16 Takte)*
+
+**[Outro – Drums lösen sich auf, Regen, Rhodes]**
 Salt on my lips…
-city lights in the rain…
-I'm not on the shore anymore.
+*(instrumental, ausblenden)*
 
 ---
 
-## 4. Aufbau (ca. 3:45, 174 BPM)
+## 4. Aufbau (ca. 4:00, 174 BPM)
 
 | Takte | Teil | Was passiert |
 |---|---|---|
-| 1–16 | **Intro** | Regen, Rhodes, Stimme nah, keine Drums |
-| 17–32 | **Strophe 1** | Tiefpass-gefilterter Break, Pad, Sub-Bass |
-| 33–40 | **Pre-Chorus** | Filter öffnet sich, Snare-Fill |
-| 41–56 | **Refrain** | Volle Drums, Reese-Bass, Stimme hoch |
-| 57–58 | **Wellen-Rauschen** | Nur Pad, Atemzug |
-| 59–74 | **Drop 1** | Rolling Break, Chop "tow-oh-oh" |
-| 75–90 | **Strophe 2** | Ausgedünnte Drums, Hi-Hats + Sub |
-| 91–98 | **Pre-Chorus** | wie oben |
-| 99–114 | **Refrain** | wie oben |
-| 115–130 | **Drop 2** | Ghost-Snares, Strings, Bass bewegt sich mehr |
-| 131–146 | **Bridge** | Keine Drums, Rhodes, Strings, Regen |
-| 147–154 | **Build** | Break kommt zurück, "under, under…" |
-| 155–178 | **Final Drop** | Refrain + Chop gleichzeitig, doppelte Stimme |
-| 179–194 | **Outro** | Drums lösen sich auf, Regen, Rhodes |
+| 1–16 | **Intro** | Regen, Rhodes, gefilterter Break blendet ein |
+| 17–24 | **Strophe** | Vier Zeilen, Pad, Sub-Bass |
+| 25–28 | **Pre-Chorus** | Filter öffnet sich, Snare-Fill |
+| 29–36 | **Refrain** | Volle Drums, Stimme hoch |
+| 37–68 | **Drop 1** | 32 Takte rollender Break, Reese-Bass, Chop |
+| 69–84 | **Break** | Hi-Hats + Sub, eine Zeile Gesang |
+| 85–92 | **Build** | Amen-Break baut sich auf |
+| 93–140 | **Drop 2** | 48 Takte, Strings, Ghost-Snares, Bass-Variation, Chop |
+| 141–172 | **Outro** | Drums lösen sich auf, Regen, Rhodes |
 
 ---
 
 ## 5. Produktions-Tipps
 
-- **Drums:** Klassischer Two-Step (Kick auf 1, Snare auf 2 und 4 im Halbtakt-Gefühl), darüber ein zerschnittener Breakbeat mit Ghost-Snares und Shaker. Leise rollen lassen, nicht hart schlagen.
-- **Bass:** Warmer Reese-Bass (zwei leicht verstimmte Sägezähne, tiefpass-gefiltert) plus sauberer Sinus-Sub. Im Liquid ist der Bass weich und rund, kein Neurofunk-Knurren.
-- **Akkorde:** Bm9 – Gmaj7 – Dmaj7 – A6 auf Rhodes und einem breiten Pad, jeder Akkord zwei Takte lang. Das langsame Akkordtempo macht das "Schweben" über den schnellen Drums.
-- **Atmosphäre:** Regen-Field-Recording durchgehend leise im Hintergrund, Wellen-Rauschen als Übergang vor jedem Drop.
-- **Stimme:** Nah mikrofoniert, viel Hall auf den Chops, im Refrain eine zweite Stimme eine Terz höher. Der Chop "tow-oh-oh" wird aus dem Refrain geschnitten und eine Oktave höher gepitcht.
+- **Drums sind der Star:** Two-Step-Grundbeat plus zerschnittener Breakbeat mit Ghost-Snares, Shaker und Ride. Alle 8 Takte eine kleine Variation (Fill, Break-Edit, kurzer Stopp), damit die langen Drops nicht langweilig werden.
+- **Bass:** Warmer Reese-Bass plus Sinus-Sub. Im Drop 2 eine zweite Bassfigur, die zwischen den Snares läuft.
+- **Akkorde:** Bm9 – Gmaj7 – Dmaj7 – A6 auf Rhodes und Pad, je zwei Takte, über den ganzen Song.
+- **Chop:** "tow-oh-oh" aus dem Refrain schneiden, eine Oktave höher, viel Hall, im Drop jede vierte Zeile.
+- **Atmosphäre:** Regen leise durchgehend, Wellen-Rauschen vor jedem Drop.
 
 ---
 
@@ -168,30 +109,56 @@ Suno blockiert Künstlernamen im Style-Feld, deshalb ist der Stil beschrieben st
 **Style (Feld "Style of Music"):**
 
 ```
-liquid drum and bass, 174 bpm, B minor, warm emotional female vocal, breathy intimate verses, soaring chorus, rolling breakbeats with ghost snares, warm reese bass, deep sub bass, lush pads, rhodes piano, jazzy minor 9th chords, strings, rain ambience, ocean wave fx, pitched vocal chop "tow-oh-oh", soulful, melancholic yet uplifting, atmospheric, nighttime city
+liquid drum and bass, 174 bpm, B minor, mostly instrumental, sparse breathy female vocal, long instrumental drops, rolling breakbeats with ghost snares, amen break, warm reese bass, deep sub bass, lush pads, rhodes piano, jazzy minor 9th chords, strings, rain ambience, ocean wave fx, pitched vocal chop "tow-oh-oh", soulful, atmospheric, nighttime city
 ```
 
-**Lyrics-Feld:** Den Songtext aus Abschnitt 3 einfügen, mit diesen Meta-Tags an den passenden Stellen (Regieanweisungen in Klammern wie "(Wellen-Rauschen)" weglassen oder durch die Tags ersetzen):
+**Lyrics-Feld** (so einfügen, die Tags steuern die langen Beat-Teile):
 
 ```
-[Intro: rain, rhodes piano, soft female vocal]
-[Verse 1: filtered breakbeat, warm pad]
-[Pre-Chorus: build]
-[Chorus: full drums, reese bass, soaring female vocal]
-[Ocean Waves]
-[Drop: rolling breakbeat, pitched vocal chop]
-[Verse 2: minimal drums, sub bass]
+[Intro: rain, rhodes, filtered breakbeat]
+[Instrumental]
+
+[Verse: soft breathy female vocal]
+Salt on my lips,
+city lights in the rain,
+I said I'd stay on the shore,
+but you called my name.
+
 [Pre-Chorus]
-[Chorus]
+Take me deeper…
+take me down…
+
+[Chorus: full drums]
+You're my undertow,
+pulling me under, under,
+let it take me home,
+you're my un-der… un-der-tow.
+
 [Ocean Waves]
-[Drop: rolling breakbeat, strings, vocal chop]
-[Bridge: no drums, rhodes, strings, rain]
-[Build: breakbeat returns]
-[Final Chorus: full energy, layered vocals]
+[Drop: long instrumental, rolling breakbeat, reese bass, vocal chop]
+Tow-oh-oh…
+[Instrumental]
+Tow-oh-oh…
+
+[Break: minimal drums, sub bass]
+Hold your breath with me…
+[Instrumental]
+
+[Build: amen break]
+Under, under, under…
+
+[Ocean Waves]
+[Drop: long instrumental, strings, rolling breakbeat, vocal chop]
+Tow-oh-oh…
+[Instrumental]
+Un-der… un-der-tow…
+[Instrumental]
+
 [Outro: rain, rhodes, fade out]
+Salt on my lips…
 ```
 
 **Tipps:**
-- Wenn Suno zu hart oder zu dunkel wird: "neurofunk" ist der Gegenspieler, also "smooth, soulful, not aggressive" ergänzen.
-- Wenn die Drums zu langsam wirken: "fast drum and bass breakbeat" ganz vorne ins Style-Feld setzen.
-- Wenn die Stimme zu poppig wird: "intimate, breathy, reverb-drenched" ergänzen.
+- Wenn Suno trotzdem zu viel singt: "instrumental drum and bass with occasional vocal chops" ganz vorne ins Style-Feld setzen.
+- Wenn die Drops zu kurz werden: im Lyrics-Feld mehrere `[Instrumental]`-Tags hintereinander setzen.
+- Wenn es zu hart wird: "smooth, soulful, not aggressive" ergänzen.
